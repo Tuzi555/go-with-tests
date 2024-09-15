@@ -1,4 +1,4 @@
-package los_structos
+package main
 
 import "math"
 
